@@ -10,7 +10,7 @@ A kernel-level anticheat built for reliability and low overhead designed to dete
 
 Backend and telemetry are hosted on secure servers in Switzerland, so user data is stored under strong Swiss data protection practices and kept private and safe.
 
-Focused on performance, accuracy, and respecting user privacy.
+Focused on performance, accuracy, safety and respecting user privacy.
 
 Why it matters
 
